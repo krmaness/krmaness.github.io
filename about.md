@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello! My name is **Kelly Baker**. I'm currently a student at North Carolina State University in the Applied Statistics & Data Management graduate certificate program. I work full time in research for an economic development organization and in my free time enjoy spending time with my family, friends, and pups; traveling; and completing DIY home improvement projects. 
 
-### More Information
+### Photo
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[krmaness@ncsu.edu](mailto:krmaness@ncsu.edu)
